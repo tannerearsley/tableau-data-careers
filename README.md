@@ -1,4 +1,4 @@
-# tableau_data_careers
+# tableau-data-careers
 - Interactive Dashboards | Data & AI Career Insights
 - Created 6/21/2025
 
