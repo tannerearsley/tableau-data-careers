@@ -1,5 +1,5 @@
 # tableau-data-careers
-- Interactive Dashboards | Data & AI Career Insights
+Interactive Dashboards | Data & AI Career Insights
 - By Tanner Earsley
 - Created 6/21/2025
 
